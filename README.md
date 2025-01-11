@@ -30,8 +30,7 @@ A feature-rich pastebin clone built with React, Vite, and Tailwind CSS. The Past
 
 ## Demo
 
-Check out the live demo [here](https://pasteapp.example.com).
-
+Check out the live demo [here](https://paste-app-kk3m.vercel.app/pastes).
 ---
 
 ## Installation
